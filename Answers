@@ -6,4 +6,8 @@ Q3: We need to use AWS CloudFormation template to define the ECS cluster and con
 
 checkout the **AWS CloudFormation** for more info
 
-Q4:
+Q4:Roll back the release to the previous version.
+Q5:Promote read-replica to Primary DB ; check ANS-5 file
+Q6
+
+
