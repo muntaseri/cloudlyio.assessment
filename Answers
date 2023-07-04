@@ -1,0 +1,7 @@
+Assessment Answers:
+
+Q1 : Store the API key and credential in a K8s secret.
+Q2: AWS CloudTrail
+Q3: We need to use AWS CloudFormation template to define the ECS cluster and container deployment. We can use the following reference for deployment working example.
+
+Deploying Java Microservices on Amazon Elastic Container Service | AWS Compute Blog
