@@ -2,12 +2,16 @@ Assessment Answers:
 
 Q1 : Store the API key and credential in a K8s secret.
 Q2: AWS CloudTrail
-Q3: We need to use AWS CloudFormation template to define the ECS cluster and container deployment. We can use the following reference for deployment working example.
+Q3: We need to use AWS CloudFormation template to define the ECS cluster and container deployment. We can use the following reference for deployment working example.checkout the **AWS CloudFormation** for more info
 
-checkout the **AWS CloudFormation** for more info
+Q4: Roll back the release to the previous version.
+Q5: Promote read-replica to Primary DB ; check ANS-5 file for details.
+Q6: Need to check TOP SQL on Performance Insights on Amazon RDS; check ANS-6 file for details.
+Q7: For CD/CI it is best to use opensource Jenkins, but depends on requirement AWS Complete CI/CD solution with AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, and AWS CodePipeline can also be used.
+Q8: For realtime Performance Metric and aleart we can use Grafana Metric dashboard with DataSource as prometheus or Elasticsearch, logstash and kibana(ELK) dashboard.
+Q9: We can use AWS Config for finding cloud access and encription related issue and also fix and remedy the issues while ensuring minimal operation and service downtime. check ANS-9 file for details.
 
-Q4:Roll back the release to the previous version.
-Q5:Promote read-replica to Primary DB ; check ANS-5 file
-Q6
+
+
 
 
