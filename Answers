@@ -10,7 +10,8 @@ Q6: Need to check TOP SQL on Performance Insights on Amazon RDS; check ANS-6 fil
 Q7: For CD/CI it is best to use opensource Jenkins, but depends on requirement AWS Complete CI/CD solution with AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, and AWS CodePipeline can also be used.
 Q8: For realtime Performance Metric and aleart we can use Grafana Metric dashboard with DataSource as prometheus or Elasticsearch, logstash and kibana(ELK) dashboard.
 Q9: We can use AWS Config for finding cloud access and encription related issue and also fix and remedy the issues while ensuring minimal operation and service downtime. check ANS-9 file for details.
-
+Q10: We can use terraform code to deploy 3 tier VPC on AWS cloud. check ANS-10 file for the code.
+Q11: 
 
 
 
